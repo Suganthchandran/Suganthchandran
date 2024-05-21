@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
   ---
+  ## Leetcode Profile
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Suganth__?theme=dark&font=Expletus%20Sans&ext=heatmap)
