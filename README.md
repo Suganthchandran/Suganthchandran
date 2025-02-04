@@ -13,8 +13,8 @@
 ---
 
 ### 🌟 About Me
-- 🔭 I’m currently working on [E-Commerce Website](https://youtube.com/)
-- 🌱 I’m currently learning **Flutter and DevOps**
+- 🔭 I’m currently working on [Online Food Delievery App](https://youtube.com/)
+- 🌱 I’m currently learning **SpringBoot and DevOps**
 - 👨‍💻 All of my projects are available at [portfolio.com](https://suganthchandran07.com)
 - 💬 Ask me about **MERN Stack**
 - 📫 How to reach me: **suganthchandran07@gmail.com**
