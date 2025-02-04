@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url-here" alt="Profile Image" />
+  <img src="https://res.cloudinary.com/dpoa7p06k/image/upload/v1738646820/pwesya8u8mnc0p1qi7eb.png" alt="Profile Image" />
 </p>
 
 <h1 align="center">Hey there! I'm Suganth 👋</h1>
