@@ -15,7 +15,7 @@
 ### 🌟 About Me
 - 🔭 I’m currently working on [Online Food Delievery App](https://youtube.com/)
 - 🌱 I’m currently learning **SpringBoot and DevOps**
-- 👨‍💻 All of my projects are available at [portfolio.com](https://suganthchandran07.com)
+- 👨‍💻 All of my projects are available at [portfolio.com](https://suganthchandran-portfolio.vercel.app/)
 - 💬 Ask me about **MERN Stack**
 - 📫 How to reach me: **suganthchandran07@gmail.com**
 - 📄 Know about my experiences [suganth-resume.com](https://suganth-resume.com)
